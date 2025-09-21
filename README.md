@@ -1,7 +1,4 @@
-XRVisionLabs
-Base-AR-Experience
-GITHUB PAGES LINK FOR THE FINAL RESULT:
- https://devanshi-j.github.io/Base-AR-Experience/
+
 Overview:
 This is an AR experience of the knight model. Created using three.js, webXR API and WebGL. This model is fully interactive, it can perform hit-testing and also Controller Gestures like: scale, rotate, transform, drag and pan.
 The three.js code written is based on the OOPS concept, an app is created using the constructor and app class. And different methods are created for performing different functions. 
